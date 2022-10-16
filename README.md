@@ -7,3 +7,4 @@
  ### Day 2
  Today made a Profile Card design
  ![image](/Day-2/picture/Screenshot%202022-10-15%20204111.png)
+ 
