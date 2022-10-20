@@ -23,4 +23,7 @@ Today I made a Basic Web Site
 ### Day 6
 Today I made Contact Us 
 ![image](/Day-6/picture/Screenshot%202022-10-20%20170959.png)
+### Day 7
+Today I made Search Box 
+![vidio](/Day-7/picture/Search%20Box%20-%20Google%20Chrome%202022-10-20%2019-20-18.mp4)
 
