@@ -20,4 +20,7 @@ Today made a Login Form
 ### Day 5
 Today I made a Basic Web Site
 ![image](/Day-5/picture/Screenshot%202022-10-18%20192957.png)
+### Day 6
+Today I made Contact Us 
+![image](/Day-6/picture/Screenshot%202022-10-20%20170959.png)
 
