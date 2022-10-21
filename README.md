@@ -25,6 +25,7 @@ Today I made Contact Us
 ![image](/Day-6/picture/Screenshot%202022-10-20%20170959.png)
 ### Day 7
 Today I made Search Box 
+
 https://user-images.githubusercontent.com/111644866/197144171-0055b68e-b61c-4772-b3c1-031619f9e007.mp4
 
 
